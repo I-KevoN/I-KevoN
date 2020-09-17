@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![I-KevoN's GitHub Stats.](https://github-readme-stats.vercel.app/api?username=I-KevoN&&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919)
 <!--
 **I-KevoN/I-KevoN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
